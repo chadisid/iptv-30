@@ -3,6 +3,8 @@
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1,  33
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1,  EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1,  Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,  Cuatro HD
@@ -13,6 +15,8 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,  324
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,  24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1,  8TV
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 #EXTINF:-1,  A3SERIES
@@ -25,3 +29,5 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,  PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,  TELEDEPORTE
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
